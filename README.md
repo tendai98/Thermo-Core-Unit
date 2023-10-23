@@ -35,10 +35,10 @@
 
 ## Media
 
-- Remote control app
-[![Control-App](img/4.jpg)
+**Remote control app**
+[![Control App](img/4.jpg)
 
-- Prototype Video
+ **Prototype Video**
 [![Watch the YouTube video](img/2.jpg)](https://www.youtube.com/shorts/g8ytXHs4CiU)
 
 
